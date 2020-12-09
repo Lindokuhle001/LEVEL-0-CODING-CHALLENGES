@@ -2,7 +2,7 @@ function sumOfMultiples () {
     let numbersArray = [];
     let sum = 0;
 
-    for (let i = 1; i < 1001; i++){
+    for (let i = 1; i < 1000; i++){
         numbersArray.push(i)
     }
     for (let j = 0; j < numbersArray.length; j++){
